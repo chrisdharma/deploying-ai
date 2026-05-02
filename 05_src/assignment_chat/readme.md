@@ -1,0 +1,3 @@
+# Anime Quote Generator
+
+This chat pulls up a quote from any anime requested by the user from the Yurippe open API. It was built using Streamlit. The system prompt is separate from user prompts, so users cannot access or modify the system prompts. The system also bans users from asking anything about Taylor Swift, zodiacs, astrology, cats and dogs. The chatbot also has a personality where the answers given are also spoken like a true anime character!
